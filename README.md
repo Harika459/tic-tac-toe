@@ -7,12 +7,17 @@ This repository contains a simple yet fully functional Tic-Tac-Toe game designed
 
 
 ## Features
-Two-Player Gameplay: Players alternate turns as 'X' and 'O'.
-Win Detection: Automatically identifies a winner with three matching symbols in a row, column, or diagonal.
-Draw Detection: Declares a draw when the board is full with no winner.
-Reset Functionality: Allows players to start a new game with a single click.
-Responsive Design: Adapts to desktop and mobile screens with a clean, user-friendly interface.
-Hover Effects: Visual feedback on cell hover for better user interaction.
+**Two-Player Gameplay:** Players alternate turns as 'X' and 'O'.
+
+**Win Detection:** Automatically identifies a winner with three matching symbols in a row, column, or diagonal.
+
+**Draw Detection:** Declares a draw when the board is full with no winner.
+
+**Reset Functionality:** Allows players to start a new game with a single click.
+
+**Responsive Design:** Adapts to desktop and mobile screens with a clean, user-friendly interface.
+
+**Hover Effects:** Visual feedback on cell hover for better user interaction.
 
 
 ## Technologies Used
@@ -23,22 +28,22 @@ Hover Effects: Visual feedback on cell hover for better user interaction.
 **JavaScript:** Handles game logic, event handling, win/draw detection, and reset functionality.
 
 **Git:** Version control for managing project changes.
-**
-GitHub:** Hosting the repository and enabling GitHub Pages deployment.
+
+**GitHub:** Hosting the repository and enabling GitHub Pages deployment.
 
 
 ## How to Run Locally
-Clone the Repository:
-Open your terminal and run:git clone [https://github.com/Harikrishna59/tic-tac-toe.git]
+**Clone the Repository:**Open your terminal and run:
 
-Navigate to the Project Folder:
-Change to the project directory:
+git clone [https://github.com/Harikrishna59/tic-tac-toe.git]
+
+**Navigate to the Project Folder:**> Change to the project directory:
 cd tic-tac-toe
 
-Open the Game:
+**Open the Game:**
 Open `index.html` in a web browser (e.g., Chrome, Firefox) by double-clicking the file or using a live server extension in VS Code.
-Alternatively, use a local server:
 
+**Alternatively, use a local server:**
 Install the Live Server extension in VS Code.
 Right-click `index.html` and select "Open with Live Server."
 
