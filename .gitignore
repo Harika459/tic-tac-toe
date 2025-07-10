@@ -1,0 +1,22 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+# Node.js and npm
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE Files
+.vscode/
+.idea/
+# ... (other entries)
