@@ -33,12 +33,11 @@ This repository contains a simple yet fully functional Tic-Tac-Toe game designed
 
 
 ## How to Run Locally
-**Clone the Repository:**Open your terminal and run:
+**Clone the Repository:** 
+Open your terminal and run: git clone [https://github.com/Harika459/tic-tac-toe.git]
 
-git clone [https://github.com/Harikrishna59/tic-tac-toe.git]
-
-**Navigate to the Project Folder:**> Change to the project directory:
-cd tic-tac-toe
+**Navigate to the Project Folder:**
+Change to the project directory:cd tic-tac-toe
 
 **Open the Game:**
 Open `index.html` in a web browser (e.g., Chrome, Firefox) by double-clicking the file or using a live server extension in VS Code.
