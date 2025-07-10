@@ -16,11 +16,15 @@ Hover Effects: Visual feedback on cell hover for better user interaction.
 
 
 ## Technologies Used
-HTML5: Structures the game board and UI elements.
-CSS3: Styles the grid layout, adds responsiveness, and includes hover effects.
-JavaScript: Handles game logic, event handling, win/draw detection, and reset functionality.
-Git: Version control for managing project changes.
-GitHub: Hosting the repository and enabling GitHub Pages deployment.
+**HTML5:** Structures the game board and UI elements.
+
+**CSS3:** Styles the grid layout, adds responsiveness, and includes hover effects.
+
+**JavaScript:** Handles game logic, event handling, win/draw detection, and reset functionality.
+
+**Git:** Version control for managing project changes.
+**
+GitHub:** Hosting the repository and enabling GitHub Pages deployment.
 
 
 ## How to Run Locally
@@ -48,13 +52,14 @@ A web browser for testing.
 
 ## Future Improvements
 **AI Opponent:** Implement a single-player mode with a basic AI using the minimax algorithm.
+
 **Score Tracking:** Add a scoreboard to track wins for X and O.
 
-Animations: Include CSS animations for cell clicks or win highlights.
+**Animations:** Include CSS animations for cell clicks or win highlights.
 
-Multiplayer Online: Explore WebSocket integration for online play.
+**Multiplayer Online:** Explore WebSocket integration for online play.
 
-Unit Tests: Add JavaScript tests using a framework like Jest.
+**Unit Tests:** Add JavaScript tests using a framework like Jest.
 
 ## Contributing
 Contributions are welcome! To contribute:
