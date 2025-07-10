@@ -24,25 +24,20 @@ GitHub: Hosting the repository and enabling GitHub Pages deployment.
 
 
 ## How to Run Locally
-$$
 Clone the Repository:
-$$
 Open your terminal and run:git clone [https://github.com/Harikrishna59/tic-tac-toe.git]
-$$
+
 Navigate to the Project Folder:
-$$
 Change to the project directory:
 cd tic-tac-toe
-$$
+
 Open the Game:
-$$
 Open `index.html` in a web browser (e.g., Chrome, Firefox) by double-clicking the file or using a live server extension in VS Code.
 Alternatively, use a local server:
+
 Install the Live Server extension in VS Code.
 Right-click `index.html` and select "Open with Live Server."
 
-## Live Demo
-[Coming Soon - Check back after GitHub Pages deployment] Update this link after setting up GitHub Pages, e.g., (https://github.com/Harika459/tic-tac-toe)
 
 ## Installation and Setup
 No additional dependencies or installations are required. The game runs directly in any modern web browser. For development, ensure you have:
@@ -60,13 +55,11 @@ Unit Tests: Add JavaScript tests using a framework like Jest.
 
 ## Contributing
 Contributions are welcome! To contribute:
-$$
 Fork the repository.
 Create a new branch (git checkout -b feature-name).
 Make your changes and commit them (git commit -m "Add feature-name").
 Push to the branch (git push origin feature-name).
 Open a pull request on GitHub.
-$$
 
 
 ## License
