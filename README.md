@@ -47,8 +47,7 @@ A web browser for testing.
 
 
 ## Future Improvements
-###### AI Opponent:
- Implement a single-player mode with a basic AI using the minimax algorithm.
+###### AI Opponent:Implement a single-player mode with a basic AI using the minimax algorithm.
 
 Score Tracking: Add a scoreboard to track wins for X and O.
 
